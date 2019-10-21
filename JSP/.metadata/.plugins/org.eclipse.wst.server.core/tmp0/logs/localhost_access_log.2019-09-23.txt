@@ -1,0 +1,12 @@
+127.0.0.1 - - [23/Sep/2019:10:35:48 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:10:35:50 +0900] "GET /Basic_JSP/jdbcbean/PoolTest.jsp HTTP/1.1" 500 243
+127.0.0.1 - - [23/Sep/2019:10:37:39 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:10:37:40 +0900] "GET /Basic_JSP/jdbcbean/PoolTest.jsp HTTP/1.1" 500 243
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:10:42:03 +0900] "GET /Basic_JSP/jdbcbean/PoolTest.jsp HTTP/1.1" 500 243
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:10:42:28 +0900] "GET /Basic_JSP/jdbcbean/PoolTest.jsp HTTP/1.1" 500 243
+127.0.0.1 - - [23/Sep/2019:10:43:25 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:10:43:27 +0900] "GET /Basic_JSP/jdbcbean/PoolTest.jsp HTTP/1.1" 500 243
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:11:03:10 +0900] "GET /Basic_JSP/coosession/makeCookie.jsp HTTP/1.1" 200 306
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:11:03:13 +0900] "POST /Basic_JSP/coosession/useCookie.jsp HTTP/1.1" 200 241
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:11:56:32 +0900] "GET /Basic_JSP/loginCookie/loginCookie.jsp HTTP/1.1" 200 1134
+0:0:0:0:0:0:0:1 - - [23/Sep/2019:11:57:30 +0900] "POST /Basic_JSP/loginCookie/loginPro.jsp HTTP/1.1" 404 183

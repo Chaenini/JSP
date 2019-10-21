@@ -1,0 +1,19 @@
+package seprac;
+
+import javax.servlet.ServletConfig;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.*;
+
+	@WebServlet("/seprac/getServlet")
+	public class GetServlet extends HttpServlet{
+		
+		@Override
+		public void init (ServletConfig config) throws ServletException{
+			System.out.println("init 호출");
+		}
+		
+		@Override
+		public void destroy() {
+			System.out.println("destroy 호출");
+		}
+	}

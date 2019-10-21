@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move element &apos;gugudan.jsp&apos; to &apos;02.sc&apos;&#x0D;&#x0A;- Original project: &apos;basic_jsp&apos;&#x0D;&#x0A;- Destination element: &apos;02.sc&apos;&#x0D;&#x0A;- Original element: &apos;gugudan.jsp&apos;&#x0D;&#x0A;- Update references to refactored element" description="Move file" element1="WebContent/gugudan.jsp" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.move" policy="org.eclipse.jdt.ui.moveResources" qualified="false" references="true" stamp="1554083920549" target="WebContent/02.sc" units="0" version="1.0"/>
+</session>

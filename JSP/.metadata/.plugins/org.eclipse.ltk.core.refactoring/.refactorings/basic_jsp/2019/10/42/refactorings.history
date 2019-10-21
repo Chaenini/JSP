@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Move &apos;getServlet.jsp&apos; to &apos;seprac&apos;" description="Move &apos;getServlet.jsp&apos; to &apos;seprac&apos;" destination="WebContent/seprac" element1="WebContent/prac/getServlet.jsp" flags="7" id="org.eclipse.ltk.core.refactoring.move.resources" resources="1" stamp="1571365482441" updateReferences="true"/>
+</session>

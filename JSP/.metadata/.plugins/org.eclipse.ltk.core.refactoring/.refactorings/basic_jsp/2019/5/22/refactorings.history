@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;Basic_JSP/WebContent/b06/bean/FavoriteFrom.jsp&apos; to &apos;FavoriteForm.jsp&apos;" description="Rename resource &apos;FavoriteFrom.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="WebContent/b06/bean/FavoriteFrom.jsp" name="FavoriteForm.jsp" stamp="1558920549869" updateReferences="true"/>
+</session>

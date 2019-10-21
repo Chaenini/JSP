@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [21/Apr/2019:00:02:18 +0900] "GET /Basic_JSP/04_imp/prob3From_2314.jsp HTTP/1.1" 200 398
+0:0:0:0:0:0:0:1 - - [21/Apr/2019:00:02:20 +0900] "POST /Basic_JSP/04_imp/prob3pro_2314.jsp HTTP/1.1" 200 1335
+127.0.0.1 - - [21/Apr/2019:23:29:07 +0900] "GET / HTTP/1.1" 404 1074
+0:0:0:0:0:0:0:1 - - [21/Apr/2019:23:29:09 +0900] "GET /Basic_JSP/01_dr/pageDirectiveErrorPage.jsp HTTP/1.1" 404 1111
+0:0:0:0:0:0:0:1 - - [21/Apr/2019:23:30:11 +0900] "GET /Basic_JSP/01_dr/pageDirectiveErrorPage.jsp HTTP/1.1" 500 216
+0:0:0:0:0:0:0:1 - - [21/Apr/2019:23:30:31 +0900] "GET /Basic_JSP/01_dr/pageDirectiveErrorPage.jsp HTTP/1.1" 500 216

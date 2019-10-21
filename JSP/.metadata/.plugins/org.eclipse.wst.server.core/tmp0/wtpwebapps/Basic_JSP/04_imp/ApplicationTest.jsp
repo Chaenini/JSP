@@ -1,0 +1,22 @@
+<%@ page language="java" contentType="text/html; charset=EUC-KR"
+    pageEncoding="EUC-KR"%>
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="EUC-KR">
+<title>Insert title here</title>
+</head>
+<body>
+	<h1>application 내장객체</h1>
+	<%
+	String info = application.getServerInfo();
+	String realpath = application.getRealPath("/");
+	String mimeType = application.getMimeType("sessionPro1.jsp");
+	application.log("로그 기록");
+	%>
+	
+	웹 컨테이너의 이름과 버젼 : <%=info %><p>
+	웹 어플리케이션 폴더의 로컬 시스템 경로 : <%= realpath %><p>
+	sessionPro1.jsp의 MIME Type : <%= mimeType %>
+</body>
+</html>

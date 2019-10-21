@@ -1,0 +1,10 @@
+package seprac;
+
+import javax.servlet.annotation.WebServlet;
+
+public class GetServlet {
+	@WebServlet("/seprac/getServlet")
+	public class GetServlet extends HttpServlet{
+		
+	}
+}

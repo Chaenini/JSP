@@ -1,0 +1,20 @@
+1558317343870	Rename resource 'forwardTest2,jsp.jsp'
+1558317633882	Delete element
+1558317785394	Delete element
+1558317788568	Move '404code.jsp' to 'error'
+1558317903949	Copy file
+1558317905035	Move folder
+1558317914088	Delete element
+1558317921416	Copy file
+1558317931223	Rename resource 'forwardTest3.jsp'
+1558318013580	Rename resource 'forwardTest5.jsp'
+1558318245514	Move 'error' to 'WebContent'
+1558320605749	Rename resource 'been'
+1558320807954	Rename resource 'SimpleBean.jsp'
+1558320920324	Rename resource '06_b.bean.SimpleBean.jsp'
+1558320938343	Rename resource '06_b'
+1558320969059	Rename resource 'b_06'
+1558321128887	Copy packages
+1558321136968	Rename package 'b06.bean.copy'
+1558321142655	Rename package 'b06.copy'
+1558321163283	Rename package 'b06.bean'
